@@ -6,6 +6,7 @@ Just `python3` and the `tqdm` package.
 
 ## Run the simulation
 ```bash
-python tute_imul.py
+python simul_tute.py
+python simul_corenta.py
 ```
 
